@@ -1,1 +1,2 @@
-# version-control-exercises
+# version-control-exercise
+This is a README file
